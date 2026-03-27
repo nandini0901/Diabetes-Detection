@@ -78,4 +78,4 @@ Output Layer → 1 neuron (Sigmoid)
 - NumPy
 
 ## 👩‍💻 Author
-**Nandini** — [GitHub Profile](https://github.com/nandini0901)
+**Nandini Agrawal**
